@@ -1,0 +1,10 @@
+Task 1
+I reviewed robots.txt of the Durham County Library.  There were no restrictions preventing access to the search results used for this assignment.
+
+Task 5
+
+There are some admin pages that are restricted. There are also paths like /w/, /api/, and /wiki/Special: that you do not have permission to crawl.
+
+There are rules for specific user agents. It defines the rules for all bots. It can also define rules for certain bots.  Wikipedia uses general rules for most of the crawlers.
+
+robots.txt exists to tell webcrawlers what parts of the website they are allowed on. It serves to make sure there isn't unncessary overload on their servers while protecting some pages from being scraped.  It exists to set clear rules for ethical scraping by automated tools.
